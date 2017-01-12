@@ -106,7 +106,7 @@ You can install `Elixir-Mode` manually by placing `Elixir-Mode` on your `load-pa
         <td>Open the Elixir documentation for the latest stable release.</td>
     </tr>
     <tr>
-        <td><code>elixir-mode-show-version</code></td>
+        <td><code>elixir-mode-version</code></td>
         <td>Print version info for elixir-mode.</td>
     </tr>
 </table>
